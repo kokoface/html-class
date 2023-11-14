@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="data:image/jpeg;base64,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"
+      type="image/x-icon"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>shop</li>
+            <li>about</li>
+            <li>contact</li>
+            <li>login</li>
+
+        </ul>
+        <ol>
+            <li>home</li>
+            <li>shop</li>
+            <li>about</li>
+            <li>contact</li>
+            <li>login</li>
+        </ol>
+    </nav>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis pariatur maiores autem. Voluptatem quis esse ducimus sequi ut dolore adipisci cumque explicabo nam ab, maiores fugit optio. Sit, fuga quia.</p>
+    
+    <h1>isreal</h1>
+    <h2>nigeria</h2>
+    <h3>spain</h3>
+    <h4>ukrain</h4>
+    <h5>england</h5>
+    <h6>usa</h6>
+    </div>
+
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3XOO5gWlZ-yNXEt6OBnbrcO7jy7Sz8UhTR1KgQYRyw&s" alt="">
+   <video src="./videos/WIN_20231113_13_01_17_Pro.mp4" controls></video>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/49bPz5eL0KY?si=8or-wO8MkIHe9mdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+    </div>
+
+    <div>
+        <!-- this is my form demo  -->
+        <form action="">
+            <label for="name"></labe1> <br>
+            <input type="text" placeholder="enter your name"> <br>
+            <label for="phone"></label><br>
+            <input type="number" placeholder="enter your number" > <br>
+            <label for="email"></label> <br>
+            <input type="email" placeholder="enter your email"> <br>
+            <label for="password"></label> <br>
+            <input type="password" placeholder="enter your password"> <br> 
+            <label for="message"></label> <br>
+            <textarea placeholder="enter your message"></textarea> <br>
+
+
+
+        <select>
+            <option>france</option>
+            <option>italy</option>
+            <option>canada</option>
+            <option>mexico</option>
+            <option>austria</option>
+        </select>
+
+        <button  type="submit">submit</button>
+    </form>
+
+
+    <table>
+        <tr>
+            <th>name</th>
+            <th>class</th>
+            <th>phone</th>
+            <th>address</th>
+        </tr>
+           <th>daniel</th>
+           <th>fullstack</th>
+           <th>is not neasy</th>
+           <th>but god dey</th>
+
+        </tr>
+          <th>daniel</th>
+          <th>fullstack</th>
+          <th>is not neasy</th>
+          <th>but god dey</th>
+    </tr>
+   </table>
+   </div><a href="about.html">about us</a>
+   <a href="contact.html">contact us</a>
+   <a href=""target="blank"
